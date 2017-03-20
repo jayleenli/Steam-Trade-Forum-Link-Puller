@@ -1,0 +1,18 @@
+﻿<Window x:Class="SteamTradeForumLinkPuller.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SteamTradeForumLinkPuller"
+        mc:Ignorable="d"
+        Title="Stream Trading Forum Link Puller" Height="475" Width="937.05">
+    <Grid>
+        <TextBox x:Name="webpageHTML" HorizontalAlignment="Left" Height="372" Margin="28,50,0,0" TextWrapping="Wrap" Text="Please paste the your logged in html page here" VerticalAlignment="Top" Width="609"/>
+        <Button x:Name="pullUpButton" Content="Pull Up Steam Trading Forum Pages" HorizontalAlignment="Left" Margin="28,17,0,0" VerticalAlignment="Top" Width="221" Click="startProcess"/>
+        <TextBox x:Name="Username" HorizontalAlignment="Left" Height="23" Margin="310,17,0,0" TextWrapping="Wrap" Text="Your Username" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="listOfAppIDs" HorizontalAlignment="Left" Height="163" Margin="658,163,0,0" TextWrapping="Wrap" Text="AppID's with no posts in forum first page" VerticalAlignment="Top" Width="242"/>
+        <Button x:Name="startPullingUpPages" Content="Start Pulling up Pages!" HorizontalAlignment="Left" Margin="701,345,0,0" VerticalAlignment="Top" Width="151" Click="pullPages"/>
+        <TextBox x:Name="blacklist" HorizontalAlignment="Left" Height="79" Margin="658,50,0,0" TextWrapping="Wrap" Text="Blacklist(optional-use commas to separate steam IDs)" VerticalAlignment="Top" Width="242"/>
+
+    </Grid>
+</Window>

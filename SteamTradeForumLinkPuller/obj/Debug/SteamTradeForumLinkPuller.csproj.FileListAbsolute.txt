@@ -1,0 +1,14 @@
+c:\users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\bin\Debug\SteamTradeForumLinkPuller.exe.config
+c:\users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\bin\Debug\SteamTradeForumLinkPuller.exe
+c:\users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\bin\Debug\SteamTradeForumLinkPuller.pdb
+c:\users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Debug\MainWindow.g.cs
+c:\users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Debug\App.g.cs
+c:\users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Debug\SteamTradeForumLinkPuller_MarkupCompile.cache
+c:\users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Debug\SteamTradeForumLinkPuller_MarkupCompile.lref
+c:\users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Debug\MainWindow.baml
+c:\users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Debug\SteamTradeForumLinkPuller.g.resources
+c:\users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Debug\SteamTradeForumLinkPuller.Properties.Resources.resources
+c:\users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Debug\SteamTradeForumLinkPuller.csproj.GenerateResource.Cache
+c:\users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Debug\SteamTradeForumLinkPuller.exe
+c:\users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Debug\SteamTradeForumLinkPuller.pdb
+c:\users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Debug\SteamTradeForumLinkPuller.csprojResolveAssemblyReference.cache

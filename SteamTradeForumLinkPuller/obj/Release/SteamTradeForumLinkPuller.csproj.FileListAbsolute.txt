@@ -1,0 +1,13 @@
+C:\Users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\bin\Release\SteamTradeForumLinkPuller.exe.config
+C:\Users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\bin\Release\SteamTradeForumLinkPuller.exe
+C:\Users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\bin\Release\SteamTradeForumLinkPuller.pdb
+C:\Users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Release\MainWindow.g.cs
+C:\Users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Release\App.g.cs
+C:\Users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Release\SteamTradeForumLinkPuller_MarkupCompile.cache
+C:\Users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Release\SteamTradeForumLinkPuller_MarkupCompile.lref
+C:\Users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Release\MainWindow.baml
+C:\Users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Release\SteamTradeForumLinkPuller.g.resources
+C:\Users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Release\SteamTradeForumLinkPuller.Properties.Resources.resources
+C:\Users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Release\SteamTradeForumLinkPuller.csproj.GenerateResource.Cache
+C:\Users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Release\SteamTradeForumLinkPuller.exe
+C:\Users\jayle_000\documents\visual studio 2015\Projects\SteamTradeForumLinkPuller\SteamTradeForumLinkPuller\obj\Release\SteamTradeForumLinkPuller.pdb
