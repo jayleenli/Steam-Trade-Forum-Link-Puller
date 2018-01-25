@@ -1,4 +1,7 @@
 # Steam-Trade-Forum-Link-Puller
+
+I learned that the basic gist of what this C# program is doing is called webscrapping. Using that term makes the use of the program a lot more clear. 
+
 Place your HTML page of your badge pages (can input more than one page) and it will get your steam ID from the HTML, 
 and all the steam IDs for the badges you have on your steam badge page (including steam badges and full sets). 
 Then will check each one of the steam ID's trading forums for a post on the first page and check the blacklisted steam ID's(optional). 
@@ -13,4 +16,4 @@ Developer note
 But Steam's security is too high, and I didn't want to deal with that, so this was the way around it. 
 -Also the autoposting will have to be done with Jquery in a chrome extension(briefly mentioned in the youtube video I have linked here)
 
-Thank you for reading this, and looking at my c# project XD
+Thank you for reading this, and looking at my c# project 
